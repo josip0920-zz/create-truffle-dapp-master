@@ -1,5 +1,5 @@
 /* eslint-env node, mocha */
-/* global artifacts, contract, it, assert */
+/* global artifacts, contract, it,  assert */
 
 const _project_placeholder_ = artifacts.require('_project_placeholder_');
 
